@@ -1,0 +1,22 @@
+🌌 Asteroid Prediction System 🚀
+Welcome to the Asteroid Prediction System, your interactive tool for predicting potential asteroid impacts and assessing the risk of near-Earth objects (NEOs)! Powered by machine learning and astronomical data, this app helps researchers, astronomers, and space enthusiasts stay informed about asteroids that could potentially collide with Earth.
+🔍 What is the Asteroid Prediction System?
+Asteroids and other near-Earth objects pose a rare but significant risk to our planet. By analyzing data from various sources, our system predicts the likelihood of an asteroid impacting Earth based on factors like trajectory, speed, size, and orbital patterns. With this tool, you can easily visualize, filter, and analyze potential impact threats in real-time.
+🚀 Features of the App
+•	Data Visualization: See the trajectory, size, and velocity of asteroids in a simple, visual format.
+•	Risk Assessment: Predict the probability of an asteroid's collision with Earth, based on machine learning models.
+•	Filter and Search: Customize filters by asteroid size, proximity, speed, and other attributes to find objects of interest.
+•	Historical Data: View past events and impact probabilities to better understand asteroid behavior.
+•	Real-Time Updates: Stay up-to-date with the latest asteroid data, as it’s updated frequently.
+📊 How It Works
+1.	Data Collection: The app gathers data from public astronomical databases like NASA’s Near Earth Object (NEO) program, detailing asteroid size, speed, orbit, and more.
+2.	Prediction Model: Our custom-built model processes this data, applying advanced machine learning algorithms to predict the likelihood of an asteroid’s impact on Earth.
+3.	Display & Insights: The results are displayed in an easy-to-understand format, allowing you to analyze and interpret the data visually.
+🛠️ How to Use the App
+1.	Enter the Parameters: Use the sidebar to enter specific criteria like asteroid size, speed, and proximity to Earth.
+2.	Run Prediction: Click on the Run Prediction button, and the model will calculate the impact probability.
+3.	Explore the Results: The app will display the predictions, visualizing key metrics and the asteroid's orbital path.
+4.	Adjust & Reanalyze: Modify the parameters as needed to explore various scenarios and better understand different asteroids.
+⚠️ Disclaimer
+The Asteroid Prediction System is designed for educational and research purposes. While the model is built with care and uses accurate data sources, please note that predictions are probabilistic and should not be taken as definitive assessments. For verified information and official updates, always refer to trusted space agencies like NASA and ESA.
+
